@@ -4,9 +4,7 @@
 ---
   
 <!-- - 🔭 Я сейчас работаю над [...](ссылка) -->
-
 <!-- - 🌱 Я сейчас более подробно изучаю **...** -->
-
 <h3>:speech_balloon:Мои социальные сети:</h3>
   
 [![GitHub](https://img.shields.io/badge/-GitHub-090909?style=for-the-badge&logo=GitHub&logoColor=FFFFFF)](https://github.com/Damir-Sayfullin)
